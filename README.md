@@ -1,6 +1,6 @@
 # Sussuros Mangá
 
-Plataforma web focada em leitura de mangás e ajduar criadores de mangás com dicas.
+Plataforma web focada em leitura de mangás e ajudar criadores de mangás com dicas.
 
 ## Tecnologias
 - HTML5
