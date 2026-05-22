@@ -18,4 +18,4 @@ Plataforma web focada em leitura de mangás e ajudar criadores de mangás com di
 ![Preview](sussurosmanga.png)
 
 ## Acesse o projeto
-[🔗 Ver site]([https://davidguimax.github.io/site-manga/](https://davidguimax.github.io/Sussuros-manga/))
+[🔗 Ver site]([https://davidguimax.github.io/site-manga/](https://davidguimax.github.io/Sussuros-manga/)
