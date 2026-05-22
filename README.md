@@ -1,6 +1,6 @@
-# MangaTide
+# Sussuros Mangá
 
-Plataforma web focada em leitura e descoberta de mangás.
+Plataforma web focada em leitura de mangás e ajduar criadores de mangás com dicas.
 
 ## Tecnologias
 - HTML5
@@ -9,8 +9,7 @@ Plataforma web focada em leitura e descoberta de mangás.
 - Git/GitHub
 
 ## Funcionalidades
-- Carrossel de mangás
-- Página de comunidade
+- Dica Para Criadores
 - Biblioteca
 - Layout responsivo
 - Navegação dinâmica
